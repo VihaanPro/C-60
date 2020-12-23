@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#Apps{
+    height: 800px;
+    width: 100%;
+    background-color: aqua;
+}
+#Games{
+    height: 800px;
+    width: 100%;
+    background-color: papayawhip;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
